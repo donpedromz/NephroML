@@ -1,0 +1,6 @@
+nombre,age,gender,ethnicity,education_level,poverty_income_ratio,bmi,bp_systolic,bp_diastolic,blood_urea_nitrogen,albumin_serum,phosphorus,bicarbonate,calcium,uric_acid,urine_creatinine,albumin_creatinine_ratio,diabetes_diagnosed,ever_smoked
+Joven sano,28,Female,Non-Hispanic White,4,3.5,22.0,118,72,12,4.2,3.5,24,9.5,4.0,150,8.0,0,2
+Mayor con hipertension,68,Male,Non-Hispanic White,3,2.5,28.0,155,92,22,3.8,4.0,22,9.2,7.0,120,25.0,0,1
+Diabetico con danio renal,62,Male,Non-Hispanic Black,2,1.5,32.0,148,88,35,3.2,4.8,20,8.8,8.5,80,500.0,2,1
+Joven obesa prediabetica,35,Female,Mexican American,3,2.0,38.0,132,82,14,4.0,3.8,23,9.4,5.5,140,15.0,1,2
+Anciano con CKD avanzada,75,Male,Non-Hispanic Asian,2,1.0,24.0,165,78,48,2.9,5.5,18,8.2,9.5,60,2500.0,2,1
